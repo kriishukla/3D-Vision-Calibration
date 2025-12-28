@@ -41,7 +41,7 @@ This assignment covers fundamental concepts in 3D computer vision:
 - **`icp-transformations.csv`** - ICP registration results
   - Transformation parameters from point cloud registration
 
-- **`assignment-report.pdf`** - Detailed assignment report with results and analysis
+- **`report.pdf`** - Detailed assignment report with results and analysis
 
 ## Key Concepts
 
