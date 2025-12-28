@@ -1,4 +1,4 @@
-# Assignment 2: 3D Vision & Camera Calibration
+# 3D Vision & Camera Calibration
 
 Advanced computer vision assignment focusing on 3D reconstruction, camera calibration, and point cloud processing.
 
